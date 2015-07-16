@@ -1,0 +1,2 @@
+# cephiroth
+js basic code
